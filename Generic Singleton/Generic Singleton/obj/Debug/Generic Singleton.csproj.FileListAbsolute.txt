@@ -1,0 +1,7 @@
+C:\Users\bmcka\Desktop\ADS\Generic Singleton\Generic Singleton\bin\Debug\Generic Singleton.exe.config
+C:\Users\bmcka\Desktop\ADS\Generic Singleton\Generic Singleton\bin\Debug\Generic Singleton.exe
+C:\Users\bmcka\Desktop\ADS\Generic Singleton\Generic Singleton\bin\Debug\Generic Singleton.pdb
+C:\Users\bmcka\Desktop\ADS\Generic Singleton\Generic Singleton\obj\Debug\Generic Singleton.csprojAssemblyReference.cache
+C:\Users\bmcka\Desktop\ADS\Generic Singleton\Generic Singleton\obj\Debug\Generic Singleton.csproj.CoreCompileInputs.cache
+C:\Users\bmcka\Desktop\ADS\Generic Singleton\Generic Singleton\obj\Debug\Generic Singleton.exe
+C:\Users\bmcka\Desktop\ADS\Generic Singleton\Generic Singleton\obj\Debug\Generic Singleton.pdb
