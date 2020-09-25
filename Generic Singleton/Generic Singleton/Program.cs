@@ -10,8 +10,6 @@ namespace Generic_Singleton
     {
         static void Main(string[] args)
         {
-            Singleton<int> test = Singleton<int>.Instance;
-
             Console.ReadKey();
         }
     }
