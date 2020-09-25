@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace Generic_Singleton
 {
+    // Not thread - safe
+
     //public class Singleton <T> where T : class, new()
     //{
     //    private static T instance = null;
@@ -23,7 +25,7 @@ namespace Generic_Singleton
     //    }
     //}
 
-    public sealed class Singleton<T> where T: class, new()
+    public sealed class Singleton<T> where T: new()
     {
         private static readonly T InstanceHolder = new T();
 
