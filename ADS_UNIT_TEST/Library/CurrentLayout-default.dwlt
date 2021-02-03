@@ -113,7 +113,7 @@ MonoBehaviour:
   m_MinSize: {x: 508, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 1
-  controlID: 124
+  controlID: 126
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -138,7 +138,7 @@ MonoBehaviour:
   m_MinSize: {x: 508, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-  controlID: 125
+  controlID: 127
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -208,8 +208,8 @@ MonoBehaviour:
     y: 0
     width: 433
     height: 919
-  m_MinSize: {x: 202, y: 222}
-  m_MaxSize: {x: 4002, y: 4022}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -390,7 +390,7 @@ MonoBehaviour:
       name: ADS_UNIT_TEST
       fullName: ADS_UNIT_TEST
       resultStatus: 1
-      duration: 0.2806197
+      duration: 0.2161046
       messages: 
       output: 
       stacktrace: 
@@ -406,7 +406,7 @@ MonoBehaviour:
       name: Assembly-CSharp-Editor.dll
       fullName: C:/Users/bmcka/Desktop/ADS/ADS_UNIT_TEST/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
       resultStatus: 1
-      duration: 0.2114286
+      duration: 0.1446722
       messages: 
       output: 
       stacktrace: 
@@ -422,7 +422,7 @@ MonoBehaviour:
       name: PointCalculatorTests
       fullName: PointCalculatorTests
       resultStatus: 1
-      duration: 0.1808941
+      duration: 0.1085371
       messages: 
       output: 
       stacktrace: 
@@ -438,7 +438,7 @@ MonoBehaviour:
       name: CalculatePoints_NegativeKilledEnemies_ThrowsExceptions
       fullName: PointCalculatorTests.CalculatePoints_NegativeKilledEnemies_ThrowsExceptions
       resultStatus: 1
-      duration: 0.017067
+      duration: 0.0115334
       messages: 
       output: 
       stacktrace: 
@@ -455,7 +455,7 @@ MonoBehaviour:
       name: CalculatePoints_NegativeKilledVillagers_ThrowsExceptions
       fullName: PointCalculatorTests.CalculatePoints_NegativeKilledVillagers_ThrowsExceptions
       resultStatus: 1
-      duration: 0.0439727
+      duration: 0.0226083
       messages: 
       output: 
       stacktrace: 
@@ -471,7 +471,7 @@ MonoBehaviour:
       name: CalculatePoints_NegativeKilledVillagers_ThrowsExceptions(-2)
       fullName: PointCalculatorTests.CalculatePoints_NegativeKilledVillagers_ThrowsExceptions(-2)
       resultStatus: 1
-      duration: 0.0006407
+      duration: 0.0005931
       messages: 
       output: 
       stacktrace: 
@@ -488,7 +488,7 @@ MonoBehaviour:
       name: CalculatePoints_NegativeKilledVillagers_ThrowsExceptions(-1)
       fullName: PointCalculatorTests.CalculatePoints_NegativeKilledVillagers_ThrowsExceptions(-1)
       resultStatus: 1
-      duration: 0.0002268
+      duration: 0.0001579
       messages: 
       output: 
       stacktrace: 
@@ -505,7 +505,7 @@ MonoBehaviour:
       name: CalculatePoints_NegativeOrZeroMultiplicator_ThrowsExceptions
       fullName: PointCalculatorTests.CalculatePoints_NegativeOrZeroMultiplicator_ThrowsExceptions
       resultStatus: 1
-      duration: 0.0125045
+      duration: 0.0109889
       messages: 
       output: 
       stacktrace: 
@@ -521,7 +521,7 @@ MonoBehaviour:
       name: CalculatePoints_NegativeOrZeroMultiplicator_ThrowsExceptions(0)
       fullName: PointCalculatorTests.CalculatePoints_NegativeOrZeroMultiplicator_ThrowsExceptions(0)
       resultStatus: 1
-      duration: 0.0005709
+      duration: 0.0005444
       messages: 
       output: 
       stacktrace: 
@@ -538,7 +538,7 @@ MonoBehaviour:
       name: CalculatePoints_NegativeOrZeroMultiplicator_ThrowsExceptions(-1)
       fullName: PointCalculatorTests.CalculatePoints_NegativeOrZeroMultiplicator_ThrowsExceptions(-1)
       resultStatus: 1
-      duration: 0.0001608
+      duration: 0.0001622
       messages: 
       output: 
       stacktrace: 
@@ -555,7 +555,7 @@ MonoBehaviour:
       name: CalculatePoints_Test
       fullName: PointCalculatorTests.CalculatePoints_Test
       resultStatus: 1
-      duration: 0.0299417
+      duration: 0.0215848
       messages: 
       output: 
       stacktrace: 
@@ -571,7 +571,7 @@ MonoBehaviour:
       name: CalculatePoints_Test(3,0,1,300)
       fullName: PointCalculatorTests.CalculatePoints_Test(3,0,1,300)
       resultStatus: 1
-      duration: 0.0068521
+      duration: 0.0048245
       messages: 
       output: 
       stacktrace: 
@@ -588,7 +588,7 @@ MonoBehaviour:
       name: CalculatePoints_Test(5,0,1,500)
       fullName: PointCalculatorTests.CalculatePoints_Test(5,0,1,500)
       resultStatus: 1
-      duration: 0.0002267
+      duration: 0.0002112
       messages: 
       output: 
       stacktrace: 
@@ -605,7 +605,7 @@ MonoBehaviour:
       name: CalculatePoints_Test(5,0,2,1000)
       fullName: PointCalculatorTests.CalculatePoints_Test(5,0,2,1000)
       resultStatus: 1
-      duration: 0.0001993
+      duration: 0.0001305
       messages: 
       output: 
       stacktrace: 
@@ -622,7 +622,7 @@ MonoBehaviour:
       name: CalculatePoints_Test(5,1,2,800)
       fullName: PointCalculatorTests.CalculatePoints_Test(5,1,2,800)
       resultStatus: 1
-      duration: 0.0001389
+      duration: 0.0001393
       messages: 
       output: 
       stacktrace: 
@@ -639,7 +639,7 @@ MonoBehaviour:
       name: CalculatePoints_Test(10,0,1,1500)
       fullName: PointCalculatorTests.CalculatePoints_Test(10,0,1,1500)
       resultStatus: 1
-      duration: 0.0001379
+      duration: 0.0001298
       messages: 
       output: 
       stacktrace: 
@@ -656,7 +656,7 @@ MonoBehaviour:
       name: CalculatePoints_Test(21,0,2,6200)
       fullName: PointCalculatorTests.CalculatePoints_Test(21,0,2,6200)
       resultStatus: 1
-      duration: 0.0001323
+      duration: 0.0001682
       messages: 
       output: 
       stacktrace: 
@@ -673,7 +673,7 @@ MonoBehaviour:
       name: CalculatePoints_Test(11,3,1,1300)
       fullName: PointCalculatorTests.CalculatePoints_Test(11,3,1,1300)
       resultStatus: 1
-      duration: 0.0003459
+      duration: 0.0001242
       messages: 
       output: 
       stacktrace: 
@@ -690,7 +690,7 @@ MonoBehaviour:
       name: CalculatePoints_Test(10,10,5,500)
       fullName: PointCalculatorTests.CalculatePoints_Test(10,10,5,500)
       resultStatus: 1
-      duration: 0.0001495
+      duration: 0.000122
       messages: 
       output: 
       stacktrace: 
@@ -707,7 +707,7 @@ MonoBehaviour:
       name: CalculatePoints_Test(0,0,1,0)
       fullName: PointCalculatorTests.CalculatePoints_Test(0,0,1,0)
       resultStatus: 1
-      duration: 0.0001365
+      duration: 0.0001238
       messages: 
       output: 
       stacktrace: 
@@ -724,7 +724,7 @@ MonoBehaviour:
       name: CalculatePoints_Test(0,4,1,0)
       fullName: PointCalculatorTests.CalculatePoints_Test(0,4,1,0)
       resultStatus: 1
-      duration: 0.0001386
+      duration: 0.0001213
       messages: 
       output: 
       stacktrace: 
@@ -736,11 +736,11 @@ MonoBehaviour:
       - Uncategorized
       parentId: 1012
       parentUniqueId: Assembly-CSharp-Editor.dll/PointCalculatorTests/[Assembly-CSharp-Editor][PointCalculatorTests.CalculatePoints_Test][suite]
-    m_ResultText: "CalculatePoints_NegativeKilledVillagers_ThrowsExceptions(0) (0,010s)\n---\nExpected:
+    m_ResultText: "CalculatePoints_NegativeKilledVillagers_ThrowsExceptions(0) (0,009s)\n---\nExpected:
       <System.ArgumentOutOfRangeException>\r\n  But was:  null\n---\nat PointCalculatorTests.CalculatePoints_NegativeKilledVillagers_ThrowsExceptions
-      (System.Int32 killedVillagers) [0x0000e] in C:\\Users\\bmcka\\Desktop\\ADS\\ADS_UNIT_TEST\\Assets\\Editor\\PointCalculatorTests.cs:43"
+      (System.Int32 killedVillagers) [0x0000e] in C:\\Users\\bmcka\\Desktop\\ADS\\ADS_UNIT_TEST\\Assets\\Editor\\PointCalculatorTests.cs:42"
     m_ResultStacktrace: "at PointCalculatorTests.CalculatePoints_NegativeKilledVillagers_ThrowsExceptions
-      (System.Int32 killedVillagers) [0x0000e] in C:\\Users\\bmcka\\Desktop\\ADS\\ADS_UNIT_TEST\\Assets\\Editor\\PointCalculatorTests.cs:43\r\n"
+      (System.Int32 killedVillagers) [0x0000e] in C:\\Users\\bmcka\\Desktop\\ADS\\ADS_UNIT_TEST\\Assets\\Editor\\PointCalculatorTests.cs:42\r\n"
     m_TestListState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 007fe492
@@ -1059,9 +1059,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 90320000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 66d7ffff80d8ffffd4d8ffffc4d9ffffb2daffffa6dbffff9edcffff9eddffff94deffff7adfffff74e0ffff7ce1ffff62e2ffff62e3ffff58e4ffff3ae5ffff30e6ffff16e7fffffce7ffff10e9ffffe8e9ffffc2eaffffa4ebffff84ecffff64edffff60eeffff44efffff14f0ffffd2f0ffff92f1ffffccf1ffff0ef2ffffe2f2ffff30f3ffff10f4ffffe2f4ffffa4f5ffff64f6ffff6cfbffff
+      m_ExpandedIDs: acf8ffff98f9ffff76faffff74fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1324,9 +1324,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6c320000
-    m_LastClickedID: 12908
-    m_ExpandedIDs: 00000000ae2d000000ca9a3b
+    m_SelectedIDs: 602d0000
+    m_LastClickedID: 11616
+    m_ExpandedIDs: 000000002c2d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1354,7 +1354,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 000000002c2d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
